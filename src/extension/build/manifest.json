@@ -17,6 +17,6 @@
     }
   ],
   "web_accessible_resources" : ["bundles/backend.bundle.js"],
-  "permissions": ["contextMenus", "tabs", "activeTab", "http://localhost/*", "https://localhost/*"]
+  "permissions": ["contextMenus", "tabs", "activeTab", "http://localhost/*", "https://localhost/*", "http://localhost.livecycle.io:8081/*"]
   
 }
